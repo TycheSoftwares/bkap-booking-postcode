@@ -1,0 +1,10 @@
+#poststuff {
+    min-width: 763px;
+    padding-top: 50px;
+}
+#poststuff h2 {
+    font-size: 1.3em;
+    line-height: 1.4;
+    margin: 0;
+    padding: 0px 0px !important;
+}
